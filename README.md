@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Wiktor Moliński</h1>
+<h1 align="center">Hi 👋, I'm Wiktor</h1>
 <h3 align="center">Trying to get into the world of programming!</h3>
 
 - 🌱 I’m currently learning **Python**
 
 - 🕒 In future, I want to learn how to program in **Java, C#**
-
-- 📫 How to reach me **wiktor.molinski7@gmail.com**
 
 - ⚡ Fun fact **I'm interested in widely known financial markets like: Forex exchange, Stock market, Indices and Crypto**
 
