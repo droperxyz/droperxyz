@@ -12,6 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=droperxyz&show_icons=true&locale=en&layout=compact" alt="droperxyz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=droperxyz&show_icons=true&locale=en" alt="droperxyz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=droperxyz&" alt="droperxyz" /></p>
