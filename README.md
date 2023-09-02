@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 🕒 In future, I want to learn how to program in **Java, C#**
+- 🕒 In future, I want to learn how to program in **Java, C#** and how to use **Wordpress**
+
 
 - ⚡ Fun fact **I'm interested in widely known financial markets like: Forex exchange, Stock market, Indices and Crypto**
 
