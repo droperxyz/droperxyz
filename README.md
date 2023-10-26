@@ -13,4 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=droperxyz&show_icons=true&locale=en&layout=compact" alt="droperxyz" /></p>
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64fa0fb85ce9f4ca58a03aa6?variant=dark&roadmaps=python" alt="roadmap.sh"/></a>
+
+
 
